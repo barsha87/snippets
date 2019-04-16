@@ -1,0 +1,55 @@
+		body{	
+			font-family:helvetica, verdana;
+			}
+
+		.supertitle {   
+  			background-color:#FF9966;  
+			color:white;
+			padding-left:50px;
+			}
+
+		.entry {   
+			border: 5px solid;
+  			border-color: #FF6633;
+			border-radius: 15px;
+			padding: 20px 50px;
+			margin: 0px 50px;  
+			background-color: white;
+			}
+
+
+		.headings{
+			font-size:20px;
+			margin-left:50px;
+			color:#FF6633;
+			}
+
+		.error{
+			color:red;
+		       }
+
+		textarea{
+			height:300px;
+			width:500px;
+			border-radius:10px;
+			font-family:monospace;
+			margin-left:50px;
+			}
+
+		hr{
+			margin:20px;
+			}
+		
+		.sb{
+			height:40px;
+			width:100px;
+			border-radius:10px;
+			font-size:24px;
+			margin-left:50px;
+			}
+		
+		.t{
+			border-radius:10px;
+			font-size:20px;
+			margin-left:50px;
+			}
